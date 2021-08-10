@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68487056160",
+    "project_id": "upchaar-5622d",
+    "storage_bucket": "upchaar-5622d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68487056160:android:85ebafef15be442cdae545",
+        "android_client_info": {
+          "package_name": "com.android.upchaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68487056160-kqv98vtgeqh489qcgip6hmgka4r9pekh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgsaDBQdoLUaFwhpMGZ2K00A08GW0pHqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68487056160-kqv98vtgeqh489qcgip6hmgka4r9pekh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
